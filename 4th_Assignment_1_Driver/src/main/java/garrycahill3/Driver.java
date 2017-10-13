@@ -21,12 +21,10 @@ public class Driver {
         Module S_E_III = new Module("Software Engineering III", "CT417", new ArrayList<Student>());
         S_E_III.addStudent(s1);
         S_E_III.addStudent(s2);
-        S_E_III.addStudent(s4);
-
+        
         Module M_L_and_D_M = new Module("Machine Learning and Data Mining", "CT475", new ArrayList<Student>());
         M_L_and_D_M.addStudent(s1);
         M_L_and_D_M.addStudent(s2);
-        M_L_and_D_M.addStudent(s4);
 
         Module S_on_C_1 = new Module("System on Chip I", "EE451", new ArrayList<Student>());
         S_on_C_1.addStudent(s4);
