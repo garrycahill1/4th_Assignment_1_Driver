@@ -32,5 +32,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/4th_assignment_1.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
